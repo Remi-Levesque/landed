@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #1c1d26;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -2150,7 +2150,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #ffffff;
+		  color: #1c1d26;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2207,7 +2207,7 @@ input, select, textarea {
 		}
 
 	label {
-		color: #ffffff;
+		  color: #1c1d26;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 300;
@@ -3637,7 +3637,7 @@ input, select, textarea {
 				}
 
 				.spotlight .content {
-					background-color: #1c1d26;
+					background-color: #dddddd;
 					border-width: 0 !important;
 					border-top-width: 0.35em !important;
 					bottom: auto !important;
